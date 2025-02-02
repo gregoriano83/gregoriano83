@@ -8,7 +8,6 @@
 
 - My name is Grzegorz (Gregory). I am a Python programmer and I am studying Data Science at HyperionDev bootcamp. I am learning data analysis and data visualization, as well as creating and deploying machine learning models. I have a deep understanding of Python programming language with object-oriented programming (OOP) and various libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, and web framework Django. I am also familiar with topics related to linux, computer networks, smart home, AWS cloud, and so on.
 
-- 🔭 Currently, I am considering starting a computer vision project.
 
 - 📫 How to reach me:
   gregoriano83@gmail.com
