@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D4E16AQHUj5HxOgyqNw/profile-displaybackgroundimage-shrink_350_1400/0/1681237889318?e=1693440000&v=beta&t=kZoTc2TmRaMLNX4vLyoUycspm310Pm2MXAgnUB2-X90">
-  <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/D4E16AQHUj5HxOgyqNw/profile-displaybackgroundimage-shrink_350_1400/0/1681237889318?e=1693440000&v=beta&t=kZoTc2TmRaMLNX4vLyoUycspm310Pm2MXAgnUB2-X90">
-  <img alt="Data Science." src="https://media.licdn.com/dms/image/D4E16AQHUj5HxOgyqNw/profile-displaybackgroundimage-shrink_350_1400/0/1681237889318?e=1693440000&v=beta&t=kZoTc2TmRaMLNX4vLyoUycspm310Pm2MXAgnUB2-X90">
-</picture>
+
 
 ### Hi there 👋
 
