@@ -9,7 +9,7 @@
   gregoriano83@gmail.com
   greg.tech.developer@gmail.com
 
-  - 🔭 I’m currently working on an application that connects an alternator and starter repair workshop with local car repair shops. (CRM project)
+  - 🔭 I’m currently working on Mechanix an application that connects an alternator and starter repair workshop with local car repair shops. (CRM project)
   - 🌱 I’m currently learning Vue 3.
 
 <!--
