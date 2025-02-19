@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- My name is Grzegorz (Gregory). I am a Python programmer. I studied Data Science at the HyperionDev bootcamp in United Kingdom. I learned data analysis and data visualization, as well as creating and deploying machine learning models. I have a deep understanding of Python programming language with object-oriented programming (OOP) and various libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, and web framework Django with DRF. I am also familiar with topics related to Postgresql, Git, pgAdmin, Postman, linux, computer networks, smart home, AWS cloud, and so on.
+- My name is Grzegorz (Gregory). I am a Python programmer. I studied Data Science at the HyperionDev bootcamp in United Kingdom. I learned data analysis and data visualization, as well as creating and deploying machine learning models. I have a deep understanding of Python programming language with object-oriented programming (OOP) and various libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, and web framework Django with DRF. I am also familiar with topics related to Postgresql, Git, pgAdmin, Postman, linux, computer networks, smart home, AWS cloud, Docker and so on.
 
 
 - 📫 How to reach me:
